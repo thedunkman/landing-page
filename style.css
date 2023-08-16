@@ -1,0 +1,25 @@
+body {
+    display:flex;
+    flex-direction:column;
+}
+
+ul {
+    list-style-type:none;
+}
+
+.header {
+    display:flex;
+    justify-content:space-between;
+}
+
+.logo {
+    font-size:30px;
+    color:darkblue;
+    font-weight:bold;
+}
+
+.nav-links {
+    display:flex;
+    flex-direction:row;
+    gap:10px;
+}
