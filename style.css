@@ -15,7 +15,7 @@ ul {
 
 .logo {
     font-size:30px;
-    color:darkblue;
+    color:white;
     font-weight:bold;
 }
 
@@ -37,4 +37,5 @@ img {
 .toparea {
     background-color:#1f2937;
     padding: 10px 100px;
+    color:white;
 }
